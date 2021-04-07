@@ -13,5 +13,11 @@
         
         <button onclick="document.getElementById('demo').style.color='red'">change here text<button>
         
+ <button onclick="document.getElementById('demo').style.color='red'">change here text<button>
+        
+        <button onclick="document.getElementById('demo').style.display='none'">change none</button>
+        
+        <button onclick="document.getElementById('demo').style.display='block'">change to block</button>
+               
         </body>
         </html>
