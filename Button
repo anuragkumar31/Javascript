@@ -1,0 +1,17 @@
+<html>
+    <title>This is title</title>
+    <head>This is head</head>
+    <body>
+        <p id='demo'>This is paragraph</p>
+        
+        
+        <button onclick='document.location="https://github.com/"'> this is link button</button>
+        
+        <button onclick='document.getElementById("demo").innerHTML="hiii"'>this is button:</button>
+        
+        <button onclick="document.getElementById('demo').innerHTML=Date()">this is date</button>
+        
+        <button onclick="document.getElementById('demo').style.color='red'">change here text<button>
+        
+        </body>
+        </html>
